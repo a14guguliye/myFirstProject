@@ -1,0 +1,1 @@
+{'Kitabin Adi': 'deli kur', 'Kitabin Sehifesi': 200, 'Kitabin Qiymeti': 20}{'Kitabin Adi': '1984', 'Kitabin Sehifesi': 200, 'Kitabin Qiymeti': 20}{'Kitabin Adi': '1984', 'Kitabin Sehifesi': 200, 'Kitabin Qiymeti': 20}
